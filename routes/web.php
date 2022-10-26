@@ -1,10 +1,10 @@
 <?php
 
-use App\http\Controllers\DashboardController;
-use App\http\Controllers\LoginController;
-use App\http\Controllers\SiswaController;
-use App\http\Controllers\ProjectController;
-use App\http\Controllers\KontakController;
+use App\Http\Controllers\DashboardController;
+use App\Http\Controllers\LoginController;
+use App\Http\Controllers\SiswaController;
+use App\Http\Controllers\ProjectController;
+use App\Http\Controllers\KontakController;
 use Illuminate\Support\Facades\Route;
 
 /*
